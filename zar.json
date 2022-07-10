@@ -10,27 +10,27 @@
       }
 ,
 {
-         "name": "DTAC01-FREE",
+         "name": "SG-DTAC01-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-DTAC01-FREE.ovpn"
       }
 ,
 {
-         "name": "DTAC02-FREE",
+         "name": "SG-DTAC02-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-DTAC02-FREE.ovpn"
       }
 ,
 {
-         "name": "DTAC03-FREE",
+         "name": "SG-DTAC03-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-DTAC03-FREE.ovpn"
       }
 ,
 {
-         "name": "DTAC04-FREE",
+         "name": "SG-DTAC04-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-DTAC04-FREE.ovpn"
       }
 ,
 {
-         "name": "DTAC05-FREE",
+         "name": "SG-DTAC05-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-DTAC05-FREE.ovpn"
       }
 ,
@@ -42,31 +42,31 @@
 ,
 
 {
-         "name": "TRUE01-FREE",
+         "name": "SG-TRUE01-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-TRUE01-FREE.ovpn"
       }
 ,
 
 {
-         "name": "TRUE02-FREE",
+         "name": "SG-TRUE02-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-TRUE02-FREE.ovpn"
       }
 ,
 
 {
-         "name": "TRUE03-FREE",
+         "name": "SG-TRUE03-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-TRUE03-FREE.ovpn"
       }
 ,
 
 {
-         "name": "TRUE04-FREE",
+         "name": "SG-TRUE04-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-TRUE04-FREE.ovpn"
       }
 ,
 
 {
-         "name": "TRUE05-FREE",
+         "name": "SG-TRUE05-FREE",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/SG-TRUE05-FREE.ovpn"
       }
 
@@ -77,7 +77,9 @@
 "message":"
 💥DTAC NOPRO💯
 💥TRUE NOPRO💯
-\n\n•VIPတစ်လ၄၀ဘတ်\n•ဖိုင်တင်ရက် 10-07-22\n\n•Config by:Mr.Saeng",
+💥VIPတစလ၄၀ဘတ်
+💥ဖိုင်တင်ရက်10-07-22
+\n\nConfig by:Mr.Saeng",
 "title":"ဖိုင်အသစ်တွေ့ရှိသည်" ,
    "version":2
 }
