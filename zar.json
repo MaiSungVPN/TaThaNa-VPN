@@ -1,5 +1,23 @@
+{
+   "files": [    
 
-{ "files": [ 
-{ "name": "TH-DTAC-GAME-VIP", "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/TH-DTAC-GAME-VIP.ovpn" }, 
-{ "name": "TH-TRUE-GAME-VIP", "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/TH-TRUE-GAME-VIP.ovpn" }
-], "message":"နေ့စွဲ ဇွန်လိုင် 9ရက်\nဖိုင်ဗားရှင်း 3\nUpdade: Mr.saeng\nဖိုင်အသစ်ရခဲ့တယ် ", "title":"အပ်ဒိပ်ရရှိနိုင်ပါပီး" , "version": 9 }
+
+
+{
+         "name": "TH-TRUE-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/TH-TRUE-GAME-VIP.ovpn"
+      }
+,
+{
+         "name": "TH-DTAC-GAME-VIP",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/TH-DTAC-GAME-VIP.ovpn"
+      }
+
+   ],
+"message":"
+💥DTAC NOPRO💯
+💥TRUE NOPRO💯
+\n\n•VIPတစ်လ၄၀ဘတ်\n•ဖိုင်တင်ရက် 10-07-22\n\n•Config by:Mr.Saeng",
+"title":"ဖိုင်အသစ်တင်ဖို့Update Nowကိုနှိပ်ပါ" ,
+   "version":1
+}
