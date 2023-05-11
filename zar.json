@@ -18,6 +18,10 @@
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac03.ovpn"
       }
 ,
+      {
+         "name": "Dtac-VIP04",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac04.ovpn"
+      },
 {
          "name": "True-VIP01",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac01.ovpn"
@@ -31,6 +35,10 @@
 {
          "name": "True-VIP03",
          "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac03.ovpn"
+      },
+      {
+         "name": "True-VIP04",
+         "url": "https://raw.githubusercontent.com/MaiSungVPN/TaThaNa-VPN/main/vip-true-dtac04.ovpn"
       }
 
 
@@ -44,8 +52,8 @@
 🌟VIP Face+Youtube++✅
 🌟VIP Game+Online✅
 🌟VIP ဂိမ်းအတွက်ရပါပြီ💯
-💥Update 12/03/2023✅
+💥Update 11/05/2023✅
 \n\nဖိုင်ဗားရှင်း43",
 "title":"New Update File" ,
-   "version":44
+   "version":45
 }
