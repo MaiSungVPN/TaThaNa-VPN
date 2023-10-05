@@ -1,73 +1,66 @@
-<html>
- <head> 
-  <meta charset="utf-8"> 
-  <meta name="viewport" content="width=device-width"> 
-  <title>Privacy Policy</title> 
-  <style> body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } </style> 
- </head> 
- <body> 
-  <strong>Privacy Policy</strong> 
-  <p> HUMNOI VPN built the HUMNOI VPN app as an Ad Supported app. This SERVICE is provided by HUMNOI VPN at no cost and is intended for use as is. </p> 
-  <p> This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service. </p> 
-  <p> If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy. </p> 
-  <p> The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at HUMNOI VPN unless otherwise defined in this Privacy Policy. </p> 
-  <p><strong>Information Collection and Use</strong></p> 
-  <p> For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. </p> 
-  <div>
-   <p> The app does use third party services that may collect information used to identify you. </p> 
-   <p> Link to privacy policy of third party service providers used by the app </p> 
-   <ul> 
-    <li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li> 
-    <li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noopener noreferrer">AdMob</a> </li> 
-    <li><a href="https://firebase.google.com/policies/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li> 
-    <li><a href="https://firebase.google.com/support/privacy/" target="_blank" rel="noopener noreferrer">Firebase Crashlytics</a></li>
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!----> 
-    <li><a href="https://onesignal.com/privacy_policy" target="_blank" rel="noopener noreferrer">One Signal</a></li> 
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-    <!---->
-   </ul> 
-  </div> 
-  <p><strong>Log Data</strong></p> 
-  <p> I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics. </p> 
-  <p><strong>Cookies</strong></p> 
-  <p> Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory. </p> 
-  <p> This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. </p> 
-  <p><strong>Service Providers</strong></p> 
-  <p> I may employ third-party companies and individuals due to the following reasons: </p> 
-  <ul> 
-   <li>To facilitate our Service;</li> 
-   <li>To provide the Service on our behalf;</li> 
-   <li>To perform Service-related services; or</li> 
-   <li>To assist us in analyzing how our Service is used.</li> 
-  </ul> 
-  <p> I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. </p> 
-  <p><strong>Security</strong></p> 
-  <p> I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security. </p> 
-  <p><strong>Links to Other Sites</strong></p> 
-  <p> This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. </p> 
-  <p><strong>Children’s Privacy</strong></p> 
-  <p> These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions. </p> 
-  <p><strong>Changes to This Privacy Policy</strong></p> 
-  <p> I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. </p> 
-  <p>This policy is effective as of 2023-08-05</p> 
-  <p><strong>Page Login Log</strong></p> 
-  <p>This page is for check status for see connection and time status of vpn connection is only for admin check if you want to check can login with name and id as below </p> 
-  <br> 
-  <p><strong>Contact Us</strong></p> 
-  <p> If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@humnoivpn.xyz </p> 
-  <p> This privacy policy page was created at <a href="https://privacypolicytemplate.net" target="_blank" rel="noopener noreferrer">privacypolicytemplate.net</a> and modified/generated by <a href="https://app-privacy-policy-generator.firebaseapp.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a></p> 
- </body>
-</html>
+
+นโยบายความเป็นส่วนตัว
+[นักพัฒนา/ชื่อบริษัท] สร้างแอปเป็นแอป [โอเพ่นซอร์ส/ฟรี/ฟรีเมียม/สนับสนุนโฆษณา/เชิงพาณิชย์] บริการนี้จัดทำโดย [ผู้พัฒนา/ชื่อบริษัท] [ไม่มีค่าใช้จ่าย] และมีวัตถุประสงค์เพื่อใช้ตามที่เป็นอยู่
+
+หน้านี้ใช้เพื่อแจ้งผู้เยี่ยมชมเกี่ยวกับนโยบายของ [ของฉัน/ของเรา] ในการรวบรวม การใช้ และการเปิดเผยข้อมูลส่วนบุคคล หากมีใครตัดสินใจใช้บริการของ [ของฉัน/ของเรา]
+
+หากคุณเลือกที่จะใช้บริการ [ของฉัน/ของเรา] แสดงว่าคุณยอมรับการรวบรวมและการใช้ข้อมูลที่เกี่ยวข้องกับนโยบายนี้ ข้อมูลส่วนบุคคลที่ [ฉัน/เรา] รวบรวมจะถูกนำมาใช้เพื่อการให้บริการและปรับปรุงบริการ [ฉัน/เรา] จะไม่ใช้หรือแบ่งปันข้อมูลของคุณกับใครก็ตาม ยกเว้นตามที่อธิบายไว้ในนโยบายความเป็นส่วนตัวนี้
+
+ข้อกำหนดที่ใช้ในนโยบายความเป็นส่วนตัวนี้มีความหมายเดียวกับในข้อกำหนดและเงื่อนไขของเรา ซึ่งสามารถเข้าถึงได้ที่ HUMNOI VPN เว้นแต่จะกำหนดไว้เป็นอย่างอื่นในนโยบายความเป็นส่วนตัวนี้
+
+การรวบรวมและการใช้ข้อมูล
+
+เพื่อประสบการณ์ที่ดีขึ้น ในขณะที่ใช้บริการของเรา [ฉัน/เรา] อาจขอให้คุณมอบข้อมูลที่สามารถระบุตัวตนส่วนบุคคลบางอย่างให้เราได้ ข้อมูลที่คำขอ [ฉัน/เรา] จะถูก [เก็บรักษาไว้ในอุปกรณ์ของคุณ และไม่ถูกรวบรวมโดย [ฉัน/พวกเรา] แต่อย่างใด]/[เก็บรักษาโดยเรา และใช้ตามที่อธิบายไว้ในนโยบายความเป็นส่วนตัวนี้]
+
+แอปใช้บริการของบุคคลที่สามที่อาจรวบรวมข้อมูลที่ใช้ระบุตัวคุณ
+
+ลิงก์ไปยังนโยบายความเป็นส่วนตัวของผู้ให้บริการบุคคลที่สามที่แอปใช้
+
+บริการ Google Play
+แอดโมบ
+Google Analytics สำหรับ Firebase
+Firebase Crashlytics
+หนึ่งสัญญาณ
+บันทึกข้อมูล
+
+[ฉัน/เรา] ต้องการแจ้งให้คุณทราบว่าเมื่อใดก็ตามที่คุณใช้บริการ [ของฉัน/ของเรา] ในกรณีที่มีข้อผิดพลาดในแอป [ฉัน/เรา] รวบรวมข้อมูลและข้อมูล (ผ่านผลิตภัณฑ์ของบุคคลที่สาม) บนโทรศัพท์ของคุณที่เรียกว่า Log ข้อมูล. ข้อมูลบันทึกนี้อาจรวมถึงข้อมูลต่างๆ เช่น ที่อยู่ Internet Protocol (“IP”) ของอุปกรณ์ของคุณ ชื่ออุปกรณ์ เวอร์ชันระบบปฏิบัติการ การกำหนดค่าของแอปเมื่อใช้บริการ [ของฉัน/ของเรา] เวลาและวันที่ที่คุณใช้บริการ และสถิติอื่นๆ
+
+คุ้กกี้
+
+คุกกี้คือไฟล์ที่มีข้อมูลจำนวนเล็กน้อยซึ่งมักใช้เป็นตัวระบุที่ไม่ระบุชื่อ สิ่งเหล่านี้จะถูกส่งไปยังเบราว์เซอร์ของคุณจากเว็บไซต์ที่คุณเยี่ยมชมและจัดเก็บไว้ในหน่วยความจำภายในของอุปกรณ์ของคุณ
+
+บริการนี้ไม่ได้ใช้ "คุกกี้" เหล่านี้อย่างชัดเจน อย่างไรก็ตาม แอปอาจใช้โค้ดและไลบรารีของบุคคลที่สามที่ใช้ "คุกกี้" เพื่อรวบรวมข้อมูลและปรับปรุงบริการของพวกเขา คุณมีตัวเลือกที่จะยอมรับหรือปฏิเสธคุกกี้เหล่านี้ และรู้ว่าเมื่อใดที่คุกกี้จะถูกส่งไปยังอุปกรณ์ของคุณ หากคุณเลือกที่จะปฏิเสธคุกกี้ของเรา คุณอาจไม่สามารถใช้บริการบางส่วนได้
+
+ผู้ให้บริการ
+
+[ฉัน/เรา] อาจจ้างบริษัทและบุคคลภายนอกเนื่องจากเหตุผลดังต่อไปนี้:
+
+เพื่ออำนวยความสะดวกในการบริการของเรา
+เพื่อให้บริการในนามของเรา
+เพื่อให้บริการที่เกี่ยวข้องกับบริการ หรือ
+เพื่อช่วยเราวิเคราะห์วิธีการใช้บริการของเรา
+[ฉัน/เรา] ต้องการแจ้งให้ผู้ใช้บริการนี้ทราบว่าบุคคลที่สามเหล่านี้สามารถเข้าถึงข้อมูลส่วนบุคคลของตนได้ เหตุผลก็คือเพื่อปฏิบัติงานที่ได้รับมอบหมายในนามของเรา อย่างไรก็ตาม พวกเขามีหน้าที่ที่จะไม่เปิดเผยหรือใช้ข้อมูลเพื่อวัตถุประสงค์อื่นใด
+
+ความปลอดภัย
+
+[ฉัน/เรา] ให้ความสำคัญกับความไว้วางใจของคุณในการให้ข้อมูลส่วนบุคคลของคุณแก่เรา ดังนั้นเราจึงมุ่งมั่นที่จะใช้วิธีการปกป้องข้อมูลดังกล่าวที่เป็นที่ยอมรับในเชิงพาณิชย์ แต่โปรดจำไว้ว่าไม่มีวิธีการส่งข้อมูลทางอินเทอร์เน็ตหรือวิธีการจัดเก็บทางอิเล็กทรอนิกส์ใดที่ปลอดภัยและเชื่อถือได้ 100% และ [I/We] ไม่สามารถรับประกันความปลอดภัยได้อย่างสมบูรณ์
+
+ลิงค์ไปยังเว็บไซต์อื่น
+
+บริการนี้อาจมีลิงก์ไปยังเว็บไซต์อื่น หากคุณคลิกลิงก์ของบุคคลที่สาม คุณจะถูกนำไปยังไซต์นั้น โปรดทราบว่าไซต์ภายนอกเหล่านี้ไม่ได้ดำเนินการโดย [ฉัน/เรา] ดังนั้น [ฉัน/เรา] ขอแนะนำอย่างยิ่งให้คุณตรวจสอบนโยบายความเป็นส่วนตัวของเว็บไซต์เหล่านี้ [ฉัน/เรา] ไม่มีการควบคุมและไม่รับผิดชอบต่อเนื้อหา นโยบายความเป็นส่วนตัว หรือหลักปฏิบัติของไซต์หรือบริการของบุคคลที่สาม
+
+ความเป็นส่วนตัวของเด็ก
+
+บริการเหล่านี้ไม่ได้กล่าวถึงผู้ที่มีอายุต่ำกว่า 13 ปี [ฉัน/เรา] จะไม่รวบรวมข้อมูลที่สามารถระบุตัวบุคคลได้จากเด็กอายุต่ำกว่า 13 ปีโดยเจตนา ในกรณีที่ [ฉัน/เรา] พบว่าเด็กอายุต่ำกว่า 13 ปีได้ให้ข้อมูลส่วนบุคคลแก่ [ฉัน/เรา] แล้ว [ฉัน/เรา] จะลบข้อมูลนี้ออกจากเซิร์ฟเวอร์ของเราทันที หากคุณเป็นพ่อแม่หรือผู้ปกครองและคุณทราบว่าบุตรหลานของคุณได้ให้ข้อมูลส่วนบุคคลแก่เรา โปรดติดต่อ [ฉัน/เรา] เพื่อให้ [ฉัน/เรา] ดำเนินการที่จำเป็นได้
+
+การเปลี่ยนแปลงนโยบายความเป็นส่วนตัวนี้
+
+[ฉัน/เรา] อาจอัปเดตนโยบายความเป็นส่วนตัวของเราเป็นครั้งคราว ดังนั้น คุณควรตรวจสอบหน้านี้เป็นระยะๆ หากมีการเปลี่ยนแปลงใดๆ [ฉัน/เรา] จะแจ้งให้คุณทราบถึงการเปลี่ยนแปลงใด ๆ โดยการโพสต์นโยบายความเป็นส่วนตัวใหม่ในหน้านี้
+
+นโยบายนี้มีผลบังคับใช้ในวันที่ 2023-10-05
+
+ติดต่อเรา
+
+หากคุณมีคำถามหรือข้อเสนอแนะเกี่ยวกับนโยบายความเป็นส่วนตัวของ [ของฉัน/ของเรา] อย่าลังเลที่จะติดต่อ [ฉัน/เรา] ที่ support@humnoivpn.xyz
+
+หน้านโยบายความเป็นส่วนตัวนี้สร้างขึ้นที่Privacypolicytemplate.netและแก้ไข/สร้างโดยเครื่องมือสร้างนโยบายความเป็นส่วนตัวของแอป
